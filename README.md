@@ -3,7 +3,7 @@
 - Nauman (mohamamd.nauman@nu.edu.pk, mnauman@mpi-sws.org, recluze.wordpress.com) -- Queries about ML should go here.
 - Hafeez ur Rehman (hafeez.urrehman@nu.edu.pk) -- Queries about Bioinformatics should go here.
 
-
+Preprint of related publication available here: http://www.biorxiv.org/content/early/2017/07/25/168120 
 
 # Import points:
     - Requires python2.7
